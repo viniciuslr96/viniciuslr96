@@ -11,7 +11,7 @@
 
 ![vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciuslr96&show_icons=true&theme=merko)
 
-## Tecnologias que eu uso no meu dia a dia 🚀
+## Tecnologias que uso no meu dia a dia 🚀
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -29,4 +29,4 @@
 
 <div/><br/>
 
-## Cursando o 3º semestre em ciência da computação 🌱🧡
+## Cursando o 4º semestre em ciência da computação 🧡
